@@ -1,7 +1,3 @@
-<h1 align="center">
-  Desafio Backend Pagnet
-</h1>
-
 ## Tecnologias
  
 - [Spring Boot](https://spring.io/projects/spring-boot)
