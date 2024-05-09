@@ -15,7 +15,7 @@ A executação deve ser feita com o Docker Compose, caso desejado, é possível 
 
 - Clonar repositório git:
 ```
-git clone https://github.com/giuliana-bezerra/desafio-backend-pagnet.git
+git clone https://github.com/dreackdown/desafio-backend-pagnet.git
 ```
 - Executar o script de inicialização:
 ```
